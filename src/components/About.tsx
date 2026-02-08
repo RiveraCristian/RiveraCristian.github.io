@@ -68,27 +68,27 @@ const About = () => {
             {/* About Text */}
             <motion.div variants={itemVariants} className="md:col-span-2 space-y-4">
               <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-                Soy <strong className="text-primary-light dark:text-primary-dark">Ingeniero en Estadística</strong> con 
-                una sólida experiencia en ciencia de datos y desarrollo full stack. Mi enfoque combina expertise 
+                Soy <strong className="text-primary-light dark:text-primary-dark">Ingeniero en Estadística</strong> con
+                una sólida experiencia en ciencia de datos y desarrollo full stack. Mi enfoque combina expertise
                 analítico con habilidades técnicas avanzadas para crear soluciones innovadoras y escalables.
               </p>
 
               <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-                Con experiencia en <strong>consultoría tecnológica</strong> tanto en el sector público como privado, 
-                he trabajado en proyectos que abarcan desde el análisis de datos institucionales hasta el desarrollo 
+                Con experiencia en <strong>consultoría tecnológica</strong> tanto en el sector público como privado,
+                he trabajado en proyectos que abarcan desde el análisis de datos institucionales hasta el desarrollo
                 de sistemas completos de gestión y plataformas de inteligencia artificial.
               </p>
 
               <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-                Mi pasión por el <strong>aprendizaje continuo</strong> y la adopción de nuevas tecnologías me ha 
-                llevado a integrar IA en proyectos educativos, desarrollar sistemas embebidos con ESP32, y crear 
+                Mi pasión por el <strong>aprendizaje continuo</strong> y la adopción de nuevas tecnologías me ha
+                llevado a integrar IA en proyectos educativos, desarrollar sistemas embebidos con ESP32, y crear
                 soluciones que transforman datos en decisiones estratégicas.
               </p>
 
               {/* Contact Info */}
               <div className="pt-6 space-y-3">
                 <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-4">Información de Contacto</h3>
-                
+
                 <motion.a
                   href="mailto:rivera.cristian0504@gmail.com"
                   whileHover={{ x: 5 }}
@@ -129,7 +129,7 @@ const About = () => {
                   </motion.a>
 
                   <motion.a
-                    href="https://linkedin.com/in/cristian-rivera"
+                    href="https://www.linkedin.com/in/cristian-rivera-8a6252298/"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.1, y: -2 }}
