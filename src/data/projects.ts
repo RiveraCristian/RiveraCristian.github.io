@@ -13,18 +13,20 @@ export interface Project {
 export const projects: Project[] = [
   {
     id: 1,
-    title: "Ciento01 - Programación de Microcontroladores Educativos",
-    description: "Proyecto colaborativo enfocado en la enseñanza de robótica y programación en edades tempranas. Mi aporte en este proyecto fue el desarrollo del sistema de programación por voz utilizando inteligencia artificial.",
-    longDescription: "Sistema educativo innovador que combina hardware ESP32 con programación visual y reconocimiento de voz mediante IA para enseñar programación a niños.",
-    technologies: ["ESP32", "C++", "React", "IA", "ArUco", "Reconocimiento de Voz"],
+    title: "Fluxo - Sistema de Gestión Financiera",
+    description: "Software de gestión financiera integral para web y mobile, diseñado para el control y análisis de finanzas personales y empresariales",
+    longDescription: "Plataforma completa de gestión financiera que permite a usuarios y empresas controlar sus finanzas de manera eficiente, con análisis en tiempo real y diseño responsive para todos los dispositivos.",
+    technologies: ["Python", "FastAPI", "TypeScript", "React", "PostgreSQL", "Responsive Design"],
     features: [
-      "Sistema de programación sin computador usando núcleo ESP32",
-      "Programación visual mediante bloques de código y aplicación móvil",
-      "Sistema de escaneo de ArUcos en papel",
-      "Integración de programación por voz mediante agentes de IA"
+      "Gestión de ingresos y gastos en tiempo real",
+      "Dashboard con análisis financiero y visualizaciones",
+      "Diseño responsive optimizado para web y mobile",
+      "API RESTful con FastAPI para integración flexible",
+      "Reportes y exportación de datos financieros",
+      "Interfaz intuitiva desarrollada en React con TypeScript"
     ],
     githubUrl: "#",
-    image: "https://via.placeholder.com/600x400/3B82F6/FFFFFF?text=Ciento01"
+    image: "https://via.placeholder.com/600x400/3B82F6/FFFFFF?text=Fluxo"
   },
   {
     id: 2,
@@ -100,20 +102,5 @@ export const projects: Project[] = [
     ],
     githubUrl: "#",
     image: "https://via.placeholder.com/600x400/3B82F6/FFFFFF?text=Gestion+Seguros"
-  },
-  {
-    id: 7,
-    title: "Juego Educativo de Estadística",
-    description: "Desarrollo de un juego interactivo para enseñar conceptos básicos de estadística a estudiantes",
-    longDescription: "Juego educativo diseñado para facilitar el aprendizaje de conceptos estadísticos a través de actividades interactivas y desafíos.",
-    technologies: ["Unity", "C#", "Blender", "Photoshop"],
-    features: [
-      "Actividades interactivas para aprender estadística",
-      "Desafíos y niveles progresivos",
-      "Gráficos y visualizaciones atractivas",
-      "Feedback inmediato para los jugadores"
-    ],
-    githubUrl: "#",
-    image: "https://via.placeholder.com/600x400/10B981/FFFFFF?text=Juego+Estadistica"
   }
 ];

@@ -141,8 +141,8 @@ Soy **Cristian Andrés Rivera Gutiérrez**, Ingeniero en Estadística con experi
 
 ## 🌟 Proyectos Destacados
 
-### 🎓 Ciento01 - Programación Educativa
-Sistema de programación de microcontroladores para enseñanza de robótica en edades tempranas, utilizando ESP32, React, y reconocimiento de voz con IA.
+### 💰 Fluxo - Sistema de Gestión Financiera
+Software de gestión financiera integral para web y mobile, desarrollado con backend en Python (FastAPI) y frontend en TypeScript con React. Incluye diseño responsive optimizado para todos los dispositivos.
 
 ### 🏥 Sistema de Gestión Clínica
 Plataforma web para gestión de clínicas kinesiológicas con seguimiento de pacientes y análisis estadístico.

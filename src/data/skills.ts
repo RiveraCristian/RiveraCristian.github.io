@@ -29,14 +29,6 @@ export const skillsData: SkillCategory[] = [
     ]
   },
   {
-    category: "Programación de Microcontroladores",
-    skills: [
-      "C++",
-      "ESP32",
-      "Sistemas Embebidos"
-    ]
-  },
-  {
     category: "Inteligencia Artificial",
     skills: [
       "Desarrollo de agentes IA",

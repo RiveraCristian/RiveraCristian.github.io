@@ -34,8 +34,8 @@ export const experiences: Experience[] = [
     company: "Gobierno Regional del Maule",
     position: "Consultor en Desarrollo de TI",
     location: "Talca, Chile",
-    startDate: "Julio 2024",
-    endDate: "Diciembre 2024",
+    startDate: "Julio 2025",
+    endDate: "Diciembre 2025",
     current: false,
     responsibilities: [
       "Consultoría especializada sobre brechas tecnológicas del Gobierno Regional del Maule",
